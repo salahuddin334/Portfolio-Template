@@ -76,10 +76,10 @@ const technologies = [
     name: 'JavaScript',
     icon: javascript,
   },
-  {
-    name: 'TypeScript',
-    icon: typescript,
-  },
+  // {
+  //   name: 'TypeScript',
+  //   icon: typescript,
+  // },
   {
     name: 'React JS',
     icon: reactjs,
@@ -96,18 +96,18 @@ const technologies = [
     name: 'Node JS',
     icon: nodejs,
   },
-  {
-    name: 'Rails',
-    icon: rubyrails,
-  },
-  {
-    name: 'graphql',
-    icon: graphql,
-  },
-  {
-    name: 'postgresql',
-    icon: postgresql,
-  },
+  // {
+  //   name: 'Rails',
+  //   icon: rubyrails,
+  // },
+  // {
+  //   name: 'graphql',
+  //   icon: graphql,
+  // },
+  // {
+  //   name: 'postgresql',
+  //   icon: postgresql,
+  // },
   {
     name: 'git',
     icon: git,
@@ -124,33 +124,33 @@ const technologies = [
 
 const experiences = [
   {
-    title: 'Front-End Developer',
-    company_name: 'Cover Hunt',
+    title: 'Full stack developer ',
+    company_name: 'Tekisky PVT Ltd',
     icon: coverhunt,
     iconBg: '#333333',
-    date: 'Aug 2021 - Feb 2022',
+    date: 'SEP-2021 to Present',
   },
-  {
-    title: 'Mentor (Volunteer)',
-    company_name: 'Microverse',
-    icon: microverse,
-    iconBg: '#333333',
-    date: 'Mar 2022 - May 2022',
-  },
-  {
-    title: 'Junior Software Engineer',
-    company_name: 'Kelhel',
-    icon: kelhel,
-    iconBg: '#333333',
-    date: 'May 2022 - Oct 2022',
-  },
-  {
-    title: 'Full Stack Developer',
-    company_name: 'Diversity Cyber Council',
-    icon: dcc,
-    iconBg: '#333333',
-    date: 'Sep 2022 - Present',
-  },
+  // {
+  //   title: 'Mentor (Volunteer)',
+  //   company_name: 'Microverse',
+  //   icon: microverse,
+  //   iconBg: '#333333',
+  //   date: 'Mar 2022 - May 2022',
+  // },
+  // {
+  //   title: 'Junior Software Engineer',
+  //   company_name: 'Kelhel',
+  //   icon: kelhel,
+  //   iconBg: '#333333',
+  //   date: 'May 2022 - Oct 2022',
+  // },
+  // {
+  //   title: 'Full Stack Developer',
+  //   company_name: 'Diversity Cyber Council',
+  //   icon: dcc,
+  //   iconBg: '#333333',
+  //   date: 'Sep 2022 - Present',
+  // },
 ];
 
 const projects = [
