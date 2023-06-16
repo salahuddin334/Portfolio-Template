@@ -47,7 +47,7 @@ const Hero = () => {
             </h1>
             <p className={`${styles.heroSubText} mt-2 text-eerieBlack`}>
              Experienced MERN stack developer <br className="sm:block hidden" />
-             specializing in building robust web applications with MongoDB, Express.js, React.js, and Node.js
+             specializing in building robust web applications.
             </p>
           </div>
           <div
